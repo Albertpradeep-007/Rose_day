@@ -29,7 +29,7 @@ const Hero = () => {
 
       <div className="message-container">
         <h1 className="title">Happy Rose Day</h1>
-        <p className="subtitle">To my amazing Senior</p>
+        <p className="subtitle">To my Senior 😉😃💕</p>
       </div>
 
       <div className="glass-dome">
